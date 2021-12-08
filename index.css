@@ -1,0 +1,23 @@
+
+h1{
+    color: blue;
+}
+.a{
+    color: brown;
+}
+.asul{
+    color:rgb(245, 115, 9);
+}
+td{
+    padding: 12px;
+    border: PowderBlue 1px solid;
+    border-radius: 20px solid red;
+    background:rgb(5, 93, 209);
+}
+.tri{
+    background: darkgreen;
+}
+.alto{
+    margin-left: 750px;
+    color: darkred;
+}

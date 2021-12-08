@@ -1,0 +1,22 @@
+body {
+    background: rgb(5, 93, 209);
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+.login {
+    width: 400px;
+    margin: 120px auto;
+    font-size: 16px;
+  }
+.pequeña{
+    width: 120x; height: 120px;
+    border:10px;
+    margin-left: 30px;
+  }
+.usuario1{
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+h2{
+    margin-left: 30PX;
+}
